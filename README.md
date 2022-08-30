@@ -5,4 +5,3 @@ I am not responsible for the damage done
 
 FOR ----educational purpose-------
 
-https://discord.gg/cSxtpBwQYP 
